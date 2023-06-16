@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk mengembangkan solusi inovatif pada meteran prabayar. 
 ## Source Code
 
 - [File electricity_prediction_CNN1D.ipynb berisi source code untuk pembuatan model prediksi.](https://github.com/allail-qadrillah/Predictive-Energy-Management-with-IoT-and-Machine-Learning-and-Online-Token-Replenishment/blob/master/electricity_prediction_CNN1D.ipynb)
-- [API model yang memungkinkan penggunaan dan integrasi dengan aplikasi lain.]()
+- [API model yang memungkinkan penggunaan dan integrasi dengan aplikasi lain.](https://github.com/allail-qadrillah/Predictive-Energy-Management-with-IoT-and-Machine-Learning-and-Online-Token-Replenishment/tree/master/api-model)
 - Kode Raspberry Pi untuk pengolahan data dan koneksi dengan perangkat keras.
 - [Aplikasi Flutter untuk tampilan pengguna pada smartphone.](https://github.com/rajul0/IntelliCharge)
 
