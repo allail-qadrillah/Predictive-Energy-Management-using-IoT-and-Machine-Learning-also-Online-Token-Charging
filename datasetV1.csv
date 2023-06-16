@@ -1,0 +1,153 @@
+datetime,temp,feelslike,conditions,libur,daya_listrik
+2023-01-01,25.9,26.9,"Rain, Partially cloudy",1,1.76459
+2023-01-02,25.9,27,"Rain, Partially cloudy",0,1.20568
+2023-01-03,26.1,27,"Rain, Partially cloudy",0,1.12345
+2023-01-04,25.9,27.3,"Rain, Partially cloudy",0,1.03574
+2023-01-05,26.1,27.5,Partially cloudy,0,0.89243
+2023-01-06,26.5,27.5,"Rain, Partially cloudy",0,1.20146
+2023-01-07,25.5,26.1,"Rain, Partially cloudy",0,0.95032
+2023-01-08,25.8,26.7,"Rain, Partially cloudy",1,1.83052
+2023-01-09,25.8,26.6,Partially cloudy,0,1.05739
+2023-01-10,25.5,26.2,Partially cloudy,0,0.96812
+2023-01-11,24.9,25.3,Partially cloudy,0,0.82481
+2023-01-12,26.2,27.3,"Rain, Partially cloudy",0,1.45233
+2023-01-13,26,27.2,"Rain, Partially cloudy",0,1.30007
+2023-01-14,26,27,"Rain, Partially cloudy",0,1.22993
+2023-01-15,26.5,27.6,"Rain, Partially cloudy",1,1.90281
+2023-01-16,26.1,27.2,"Rain, Partially cloudy",0,1.23158
+2023-01-17,25.6,26.1,Partially cloudy,0,0.89943
+2023-01-18,24.9,25.5,Partially cloudy,0,0.77626
+2023-01-19,26,27.2,"Rain, Partially cloudy",0,1.26902
+2023-01-20,26.1,27,"Rain, Partially cloudy",0,1.33169
+2023-01-21,22.9,22.9,"Rain, Overcast",0,1.08107
+2023-01-22,25.3,26.4,"Rain, Partially cloudy",1,1.60835
+2023-01-23,24.8,25.2,"Rain, Partially cloudy",1,1.49027
+2023-01-24,24.9,25.2,"Rain, Overcast",0,0.99874
+2023-01-25,25.9,26.7,"Rain, Partially cloudy",0,1.13599
+2023-01-26,25.2,25.8,"Rain, Partially cloudy",0,1.02345
+2023-01-27,25.4,25.8,"Rain, Partially cloudy",0,1.02831
+2023-01-28,26,26.9,"Rain, Partially cloudy",0,1.30172
+2023-01-29,26,27.3,"Rain, Overcast",1,1.76494
+2023-01-30,26.4,27.8,"Rain, Partially cloudy",0,1.12768
+2023-01-31,25.3,25.5,"Rain, Overcast",0,1.63942
+2023-02-01,26.1,27.2,"Rain, Partially cloudy",0,1.94327
+2023-02-02,26.4,27.5,"Rain, Partially cloudy",0,1.89354
+2023-02-03,26.5,27.8,"Rain, Partially cloudy",0,1.81592
+2023-02-04,25.3,25.8,"Rain, Partially cloudy",0,1.76973
+2023-02-05,26,27,"Rain, Partially cloudy",1,2.09412
+2023-02-06,26.1,27,"Rain, Partially cloudy",0,1.80123
+2023-02-07,26.2,27.4,"Rain, Partially cloudy",0,1.86179
+2023-02-08,26.2,27.4,"Rain, Overcast",0,1.92481
+2023-02-09,26.4,27.8,"Rain, Partially cloudy",0,1.85247
+2023-02-10,25.6,26.4,"Rain, Partially cloudy",0,1.72469
+2023-02-11,26,27.3,"Rain, Partially cloudy",0,1.89523
+2023-02-12,26.6,28.2,"Rain, Partially cloudy",1,2.14159
+2023-02-13,26.5,27.9,"Rain, Partially cloudy",0,1.93248
+2023-02-14,26.8,28.2,"Rain, Partially cloudy",0,1.84352
+2023-02-15,26.8,28.1,"Rain, Partially cloudy",0,1.82109
+2023-02-16,26.8,28.3,"Rain, Partially cloudy",0,1.86735
+2023-02-17,26.3,27.3,"Rain, Partially cloudy",0,1.81764
+2023-02-18,26.5,27.7,"Rain, Partially cloudy",1,2.05532
+2023-02-19,26.8,28.3,"Rain, Partially cloudy",1,2.01295
+2023-02-20,26.6,28.1,"Rain, Partially cloudy",0,1.86654
+2023-02-21,26.6,28.1,"Rain, Partially cloudy",0,1.84829
+2023-02-22,26.8,28.3,"Rain, Partially cloudy",1,2.04387
+2023-02-23,26.8,28.7,"Rain, Partially cloudy",0,2.11035
+2023-02-24,26.4,27.8,Partially cloudy,0,1.85948
+2023-02-25,26.5,27.8,Partially cloudy,0,1.84132
+2023-02-26,26.1,27,"Rain, Partially cloudy",1,1.97064
+2023-02-27,26.8,28,"Rain, Partially cloudy",0,1.90875
+2023-02-28,26.5,27.7,"Rain, Partially cloudy",0,1.83792
+2023-03-01,26.2,27.2,"Rain, Overcast",0,1.94689
+2023-03-02,27.3,29,"Rain, Partially cloudy",0,1.98247
+2023-03-03,26.2,26.6,"Rain, Overcast",0,1.89456
+2023-03-04,26.8,27.8,"Rain, Partially cloudy",0,1.94563
+2023-03-05,26.9,28.1,Partially cloudy,1,1.84291
+2023-03-06,26.6,27.4,Clear,0,1.76932
+2023-03-07,26.4,27.4,"Rain, Partially cloudy",0,1.94123
+2023-03-08,27.1,28.5,Partially cloudy,0,1.87654
+2023-03-09,26.6,27.8,"Rain, Partially cloudy",0,1.92847
+2023-03-10,26,26.9,"Rain, Partially cloudy",0,1.85742
+2023-03-11,26.3,27.3,"Rain, Partially cloudy",0,1.91375
+2023-03-12,26.9,28.6,"Rain, Partially cloudy",1,2.09786
+2023-03-13,25,26.5,"Rain, Partially cloudy",0,1.76109
+2023-03-14,26.2,27.3,Partially cloudy,0,1.90542
+2023-03-15,26.7,28,"Rain, Partially cloudy",0,1.93871
+2023-03-16,27.1,28.7,"Rain, Partially cloudy",0,1.87365
+2023-03-17,26.6,28.2,"Rain, Partially cloudy",0,1.92874
+2023-03-18,27.1,28.8,"Rain, Partially cloudy",0,1.98631
+2023-03-19,27.2,29.3,"Rain, Partially cloudy",1,2.04287
+2023-03-20,26.8,28.6,"Rain, Partially cloudy",0,1.92543
+2023-03-21,27.2,29.2,Partially cloudy,0,1.87649
+2023-03-22,27.3,29.4,"Rain, Partially cloudy",1,2.01476
+2023-03-23,27,28.5,"Rain, Partially cloudy",1,2.02035
+2023-03-24,26.7,28.1,"Rain, Partially cloudy",0,1.92478
+2023-03-25,27.1,28.9,"Rain, Partially cloudy",0,1.94367
+2023-03-26,27.2,29.1,"Rain, Partially cloudy",1,1.98235
+2023-03-27,27,29.1,"Rain, Partially cloudy",0,1.93127
+2023-03-28,27.4,29.7,"Rain, Partially cloudy",0,2.01034
+2023-03-29,27.4,29.5,"Rain, Partially cloudy",0,2.03465
+2023-03-30,27.2,29.3,"Rain, Partially cloudy",0,1.99843
+2023-03-31,27.5,29.7,Partially cloudy,0,1.98354
+2023-04-01,27.5,29.4,"Rain, Partially cloudy",0,1.95734
+2023-04-02,27.4,28.8,"Rain, Partially cloudy",1,1.93123
+2023-04-03,27,28.5,"Rain, Partially cloudy",0,1.85942
+2023-04-04,27,28.7,"Rain, Partially cloudy",0,1.87056
+2023-04-05,27.1,28.1,Partially cloudy,0,1.81674
+2023-04-06,27.1,28.7,Partially cloudy,0,1.85493
+2023-04-07,27.2,29,"Rain, Partially cloudy",1,1.93812
+2023-04-08,27,28.7,"Rain, Partially cloudy",0,1.82467
+2023-04-09,27.8,29.9,"Rain, Partially cloudy",1,2.06457
+2023-04-10,27,29,"Rain, Partially cloudy",0,1.81648
+2023-04-11,27.2,29.3,"Rain, Partially cloudy",0,1.83475
+2023-04-12,26.7,29,"Rain, Partially cloudy",0,1.80164
+2023-04-13,27.3,30.1,"Rain, Partially cloudy",0,1.89652
+2023-04-14,28,30.7,"Rain, Partially cloudy",0,2.02789
+2023-04-15,26.8,29.2,"Rain, Partially cloudy",0,1.81376
+2023-04-16,27.5,30.6,"Rain, Partially cloudy",1,1.94635
+2023-04-17,28.4,32.1,"Rain, Partially cloudy",0,2.09741
+2023-04-18,28.2,31.7,"Rain, Partially cloudy",0,2.06852
+2023-04-19,28.3,31.9,"Rain, Partially cloudy",0,2.07439
+2023-04-20,26.9,28.4,"Rain, Partially cloudy",0,1.82253
+2023-04-21,28.1,31.1,"Rain, Partially cloudy",0,2.00542
+2023-04-22,28.1,31.7,"Rain, Partially cloudy",1,2.10973
+2023-04-23,27.9,31.2,"Rain, Partially cloudy",1,2.09831
+2023-04-24,27.9,30.9,"Rain, Partially cloudy",0,1.81648
+2023-04-25,28.3,31.2,"Rain, Partially cloudy",0,1.93025
+2023-04-26,28.3,31.4,"Rain, Partially cloudy",0,1.94475
+2023-04-27,27.8,30.5,"Rain, Partially cloudy",0,1.85924
+2023-04-28,27.6,30.2,"Rain, Partially cloudy",0,1.98347
+2023-04-29,27.8,30.6,"Rain, Partially cloudy",0,2.02345
+2023-04-30,28.2,31.3,"Rain, Partially cloudy",1,1.98976
+2023-05-01,28.7,32.1,"Rain, Partially cloudy",1,1.95673
+2023-05-02,28,31,"Rain, Partially cloudy",0,1.87346
+2023-05-03,27.8,31.2,"Rain, Partially cloudy",0,1.83257
+2023-05-04,27.8,30.7,"Rain, Partially cloudy",0,2.04978
+2023-05-05,27.7,30.3,"Rain, Partially cloudy",0,2.10573
+2023-05-06,27.2,29,"Rain, Partially cloudy",0,2.08542
+2023-05-07,27.4,30.1,"Rain, Partially cloudy",1,1.81935
+2023-05-08,26.8,27.8,"Rain, Partially cloudy",0,1.90876
+2023-05-09,27.1,28.7,"Rain, Overcast",0,2.03475
+2023-05-10,28.8,31.2,"Rain, Partially cloudy",0,2.0985
+2023-05-11,28.5,31.9,"Rain, Partially cloudy",0,2.11357
+2023-05-12,28.7,31.8,"Rain, Partially cloudy",0,2.05731
+2023-05-13,28.9,32.1,Partially cloudy,0,2.09236
+2023-05-14,29.3,32.6,"Rain, Partially cloudy",1,2.08156
+2023-05-15,29,32,"Rain, Partially cloudy",0,2.10743
+2023-05-16,28.6,31.9,"Rain, Partially cloudy",0,2.10047
+2023-05-17,28.6,31.4,"Rain, Partially cloudy",0,2.06354
+2023-05-18,28.5,31.7,"Rain, Partially cloudy",1,2.03357
+2023-05-19,28.4,32,"Rain, Partially cloudy",0,2.07943
+2023-05-20,28.4,32.7,"Rain, Partially cloudy",0,2.09135
+2023-05-21,28.5,32,"Rain, Partially cloudy",1,2.04732
+2023-05-22,28.1,31.2,"Rain, Partially cloudy",0,2.01753
+2023-05-23,28.4,31.7,"Rain, Partially cloudy",0,2.07751
+2023-05-24,28.2,31.9,"Rain, Partially cloudy",0,2.03957
+2023-05-25,28.2,31.9,"Rain, Partially cloudy",0,2.04932
+2023-05-26,27.9,31,"Rain, Partially cloudy",0,1.98547
+2023-05-27,27.8,30.6,"Rain, Partially cloudy",0,1.97865
+2023-05-28,28.3,31.3,"Rain, Partially cloudy",1,2.03127
+2023-05-29,28.1,30.8,"Rain, Overcast",0,1.99143
+2023-05-30,28,30.6,Overcast,0,1.98678
+2023-05-31,27.7,30.1,"Rain, Overcast",0,1.97589
+2023-06-01,27.7,30,Overcast,1,2.02356
